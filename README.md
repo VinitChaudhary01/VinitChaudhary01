@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Vinit 👋
 
-<!--
-**VinitChaudhary01/VinitChaudhary01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founding full-stack engineer based in Ahmedabad, India, working remotely with US and UK teams.
 
-Here are some ideas to get you started:
+- 🎟️ Built **[Invyt](https://invyt.co)** solo, an event ticketing platform (1,800+ users, ~$140K processed), and now lead its 10-person engineering team
+- 🤖 Lead development of **[SvayEd](https://svayed.ai)**, an AI-tutored learning platform for healthcare professionals built on Claude
+- ⚡ Rebuilt **[Trail Guide Lodge](https://trailguidelodge.com)** from Wix to Next.js (PageSpeed 99 mobile / 100 desktop)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · PostgreSQL (Supabase, Neon) · Stripe · Vercel
+
+Most of my work is in private client repos, so the contribution graph shows the activity.
+
+📫 vinit14501@gmail.com
