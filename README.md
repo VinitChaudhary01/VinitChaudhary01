@@ -6,7 +6,7 @@ Founding full-stack engineer based in Ahmedabad, India, working remotely with US
 - 🤖 Lead development of **[SvayEd](https://svayed.ai)**, an AI-tutored learning platform for healthcare professionals built on Claude
 - ⚙️ Set up production infrastructure from scratch: Hetzner, GitHub Actions CI/CD, Grafana and PostHog, running at 99.9%+ uptime
 - 💳 Built Stripe Connect payouts, QR check-in and automated emails, saving event organisers ~3 hours per event
-- 🛠️ Founding developer at **Enlinque**, building client sites end to end in Next.js, MERN and WordPress
+- 🛠️ Lead developer at **Enlinque**, building client sites end to end in Next.js, MERN and WordPress
 
 **Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · PostgreSQL (Supabase, Neon) · Stripe · Vercel
 
